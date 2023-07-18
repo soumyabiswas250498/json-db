@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello",
+      "description": "this is description 1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

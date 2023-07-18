@@ -1,12 +1,13 @@
 {
-  "posts": [
+  "movies":[
     {
-      "id": 1,
-      "title": "hello",
-      "description": "this is description 1"
+      "id":1,
+      "title":"MovieName",
+      "language":"Hindi",
+      "genre": "Adventure Mistery",
+      "imageUrl":"https://picsum.photos/200/300",
+      "videoUrl":"https://picsum.photos/200/300",
+      "rating":"4"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }

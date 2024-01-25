@@ -30,7 +30,7 @@
         "From parents to children",
         "From children to parents",
         "Both ways",
-        "The developers decide"
+        "The developers decides"
       ],
       "correctOption": 0,
       "points": 10
@@ -119,7 +119,7 @@
         "True",
         "It depends on the dependency array",
         "False",
-        "It depends on the code in the effect"
+        "In depends on the code in the effect"
       ],
       "correctOption": 0,
       "points": 30
